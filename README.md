@@ -6,4 +6,7 @@ This simple Java program parses through every file on your computer (external an
 java -jar bigg.jar 100
 ```
 - Change 100 to any file size upper limit
-- Change 100 to $1 to add upper limit as parameter in execution (ex. ./bigg.jar 200)
+- Change 100 to $1 to add upper limit as parameter in execution, example:
+```
+./bigg.jar 200
+```
